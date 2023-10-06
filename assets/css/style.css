@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+}
+
+.display {
+  display: none;
+}
+
+#timeLine {
+  height: 20px;
+  text-align: center;
+}
+#timeLine #countdown {
+  line-height: 20px;
+}/*# sourceMappingURL=style.css.map */
